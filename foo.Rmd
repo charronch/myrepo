@@ -1,10 +1,8 @@
 ---
-title: "My Markdown file"
+title: "foo"
 author: "CC"
-date: "2023-01-11"
-output: 
-  html_document: 
-    keep_md: yes
+date: "2023-01-12"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
